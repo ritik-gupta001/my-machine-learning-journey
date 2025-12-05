@@ -8,7 +8,7 @@ This repository serves as my personal notebook and project hub for all things re
 
 - Conceptual notes and explanations
 - Jupyter notebooks and scripts of ML experiments
-- Implementations of popular ML algorithms
+- Implementation of popular ML algorithms
 - Mini-projects and case studies
 - References and learning resources
 
