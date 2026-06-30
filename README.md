@@ -12,16 +12,6 @@ This repository serves as my personal notebook and project hub for all things re
 - Mini-projects and case studies
 - References and learning resources
 
-## Contents
-
-You can expect to find the following:
-
-- **Notebooks/**: Jupyter notebooks with code and explanations
-- **Projects/**: End-to-end ML projects and case studies
-- **Scripts/**: Python scripts for specific algorithms or tasks
-- **Data/**: Example datasets (if any, or links to datasets)
-- **Docs/**: Additional documentation and resources
-
 ## How to Use This Repo
 
 - Browse the folders to find topics or projects of interest.
@@ -31,13 +21,7 @@ You can expect to find the following:
 
 ## Prerequisites
 
-Most of the code is written in Python. You’ll need:
-
 - Python 3.7 or above
 - Jupyter Notebook or JupyterLab
 - Common ML libraries such as `numpy`, `pandas`, `scikit-learn`, `matplotlib`, `seaborn`, etc.
 
-Install dependencies using:
-
-```bash
-pip install -r requirements.txt
